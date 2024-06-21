@@ -1,5 +1,6 @@
 condition = False
 
+#if something true print True sinon False
 if condition:
     print('True')
 else:
@@ -7,6 +8,7 @@ else:
 
 print('---*********---') 
 
+# if 20 print 'c'est vrai' sinon print 'c'est faux'
 x = 20
 if x == 20:
     print("c'est vrai")
